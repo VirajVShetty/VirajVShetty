@@ -6,7 +6,8 @@
 Proeffecient in Python, Tableau, R, Graphic Designing and MS-Excel </br>
 I aspire to be a Data Analyst!</b>
 
-You can find me on: </br> </br>
+
+<b> You can find me on: </b> </br> </br>
 <a href="https://github.com/VirajVShetty"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/github-square.png"></a>
 <a href = "https://www.behance.net/virajshetty"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/behance.png"></a>
 <a href="https://www.youracclaim.com/users/viraj-shetty.d917c426"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/youracclaim.png"></a>
