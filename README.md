@@ -8,6 +8,12 @@ Completed a lot of coursework on topics of Advance Python, Tableau, R and MS-Exc
 I aspire to be a Data Analyst!</b> </br></br>
 
 <b> My Skills : </b> </br> </br>
+<img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/python.svg"></a>
+<img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/tableau.png"></a>
+<img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/mysql.svg"></a>
+<img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/r.svg"></a>
+<img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/flask.svg"></a>
+</br></br>
 
 <b> You can find me on: </b> </br> </br>
 <a href="https://github.com/VirajVShetty"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/github-square.png"></a>
