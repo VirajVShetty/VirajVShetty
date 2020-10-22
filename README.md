@@ -12,6 +12,7 @@ You can find me on: </br> </br>
 <a href="https://twitter.com/virajshetty47"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/twitter.png"></a>
 <a href="https://github.com/VirajVShetty"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/github-square.png"></a>
 <a href = "https://www.hackerrank.com/viraj_shetty"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/hackerrank.jpg"></a>
+<a href = "https://www.behance.net/virajshetty"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/behance.png"></a>
 </br></br>
 
 ![Viraj's github stats](https://github-readme-stats.vercel.app/api?username=VirajVShetty&show_icons=true&theme=radical)
