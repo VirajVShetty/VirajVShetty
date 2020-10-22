@@ -2,9 +2,9 @@
 
 ## I'm Viraj Shetty
 
-I'm a Computer Engineer Graduate from Mumbai University.</br>
+<b>I'm a Computer Engineer Graduate from Mumbai University.</br>
 Proeffecient in Python, Tableau, R, Graphic Designing and MS-Excel </br>
-I aspire to be a Data Analyst! 
+I aspire to be a Data Analyst!</b>
 
 You can find me on: </br> </br>
 <a href="https://github.com/VirajVShetty"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/github-square.png"></a>
