@@ -2,4 +2,6 @@
 
 ## I'm Viraj Shetty
 
-### I'm a Computer Engineering. Aspiring to be a Data Analyst
+I'm a Computer Engineer Graduate from Mumbai University.
+I aspire to be a Data Analyst!
+Proeffecient in Python, Tableau, R and MS-Excel
