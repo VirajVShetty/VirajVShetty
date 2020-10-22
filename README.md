@@ -15,4 +15,4 @@ You can find me on: </br> </br>
 </br></br>
 
 ![Viraj's github stats](https://github-readme-stats.vercel.app/api?username=VirajVShetty&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Bridge-Health-Monitoring-System)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirajVShetty)](https://github.com/Bridge-Health-Monitoring-System)
