@@ -3,7 +3,8 @@
 ## I'm Viraj Shetty
 
 <b>I'm a Computer Engineer Graduate from Mumbai University.</br>
-Proeffecient in Python, Tableau, R, Graphic Designing and MS-Excel </br>
+I am a Python Enthusiast, specialising in the field of Data Analytics </br>
+Completed a lot of coursework on topics of Advance Python, Tableau, R and MS-Excel </br>
 I aspire to be a Data Analyst!</b>
 
 
