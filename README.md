@@ -1,4 +1,4 @@
-# Hello There <img src = "https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/obi-wan.jpg" width="80px">
+# Hello There <img src = "https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/hello.gif" width="80px">
 
 ## I'm Viraj Shetty
 
