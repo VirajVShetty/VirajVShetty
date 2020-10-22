@@ -5,8 +5,9 @@
 <b>I'm a Computer Engineer Graduate from Mumbai University.</br>
 I am a Python Enthusiast, specialising in the field of Data Analytics </br>
 Completed a lot of coursework on topics of Advance Python, Tableau, R and MS-Excel </br>
-I aspire to be a Data Analyst!</b>
+I aspire to be a Data Analyst!</b> </br></br>
 
+<b> My Skills </b> </br> </br>
 
 <b> You can find me on: </b> </br> </br>
 <a href="https://github.com/VirajVShetty"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/github-square.png"></a>
