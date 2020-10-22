@@ -11,7 +11,8 @@ I aspire to be a Data Analyst!</b> </br></br>
 <img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/python.svg"></a>
 <img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/tableau-long.png"></a>
 <img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/mysql.svg"></a>
-<img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/r.svg"></a>
+<img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/r.svg"></a> </br>
+<b> Frameworks : </b> </br> </br>
 <img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/flask.svg"></a>
 </br></br>
 
