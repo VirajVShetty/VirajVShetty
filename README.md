@@ -4,8 +4,7 @@
 
 <b>I'm a Computer Engineer Graduate from Mumbai University.</br>
 I am a Python Enthusiast, specialising in the field of Data Analytics </br>
-Completed a lot of coursework on topics of Advance Python, Tableau, R and MS-Excel </br>
-I aspire to be a Data Analyst!</b> </br></br>
+Completed a lot of coursework on topics of Advance Python, Tableau, R and MS-Excel </b> </br></br>
 
 ## My Skills :</br> </br>
 <b> Languages and Application : </b> </br> </br>
