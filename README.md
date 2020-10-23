@@ -19,6 +19,7 @@ Completed a lot of coursework on topics of Advance Python, Tableau, R and MS-Exc
 
 <b> You can find me on: </b> </br> </br>
 <a href="https://github.com/VirajVShetty"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/github-square.png"></a>
+<a href="https://gitlab.com/VirajVShetty"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/gitlab.png"></a>
 <a href = "https://www.behance.net/virajshetty"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/behance.png"></a>
 <a href="https://www.youracclaim.com/users/viraj-shetty.d917c426"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/youracclaim.png"></a>
 <a href="https://www.linkedin.com/in/virajshetty47/"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/linkedin.png"></a>
