@@ -7,7 +7,8 @@ I am a Python Enthusiast, specialising in the field of Data Analytics </br>
 Completed a lot of coursework on topics of Advance Python, Tableau, R and MS-Excel </br>
 I aspire to be a Data Analyst!</b> </br></br>
 
-<b> My Skills : </b> </br> </br>
+## My Skills :</br> </br>
+<b> Languages and Application : </b> </br> </br>
 <img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/python.svg"></a>
 <img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/tableau-long.png"></a>
 <img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/r.svg"></a>
