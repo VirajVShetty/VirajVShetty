@@ -2,14 +2,14 @@
 
 ## I'm [Viraj Shetty](https://virajvshetty.github.io/)
 
-<b>I'm a Computer Engineer Graduate from Mumbai University.</br>
-I am a Python Enthusiast, specialising in the field of Data Analytics </br>
-Completed a lot of coursework on topics of Advance Python, Tableau, R and MS-Excel </b> </br></br>
+<b>I'm a Information Technology Graduate from The University of Texas at Dallas.</br>
+I am a Python Enthusiast, specialising in the field of Data Analytics and Data Science </br>
+Completed courseworks and projects on topics of Advance Python, Tableau, R and MS-Excel </b> </br></br>
 
 ## My Skills :</br> </br>
 <b> Languages and Application : </b> </br> </br>
 <img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/python.svg"></a>
-<img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/tableau-long.png"></a>
+<img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/tableau.svg"></a>
 <img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/r.svg"></a>
 </br> </br>
 <b> Frameworks and Databases : </b> </br> </br>
