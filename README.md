@@ -7,10 +7,15 @@ I am a Python Enthusiast, specialising in the field of Data Analytics and Data S
 Completed courseworks and projects on topics of Advance Python, Tableau, R and MS-Excel </b> </br></br>
 
 ## My Skills :</br> </br>
-<b> Languages and Application : </b> </br> </br>
+<b> Programming Languages and Tools: </b> </br> </br>
 <img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/python.svg"></a>
 <img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/tableau.svg"></a>
 <img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/r.svg"></a>
+<img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/azure.svg"></a>
+<img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/c++.svg"></a>
+<img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/c.svg"></a>
+<img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/css3.svg"></a>
+<img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/mongodb.svg"></a>
 </br> </br>
 <b> Frameworks and Databases : </b> </br> </br>
 <img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/flask.svg"></a>
