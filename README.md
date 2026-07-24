@@ -2,8 +2,8 @@
 
 ## I'm [Viraj Shetty](https://virajvshetty.github.io/)
 
-<b>I'm a Information Technology Graduate from The University of Texas at Dallas.</br>
-I am a Python Enthusiast, specialising in the field of Data Analytics and Data Science </br>
+<b>Data Scientist, specializing in Credit Risk Analysis</br>
+I'm a AI/LLM Enthusiast </br>
 Completed courseworks and projects on topics of Advance Python, Tableau, R and MS-Excel </b> </br></br>
 
 ## My Skills :</br> </br>
