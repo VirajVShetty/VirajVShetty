@@ -1,5 +1,5 @@
-<h1>Welcome to my profile</h1>
-<p> 
+<h1 align = 'center'>Welcome to my profile</h1>
+<p  align="center"> 
   <img src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/hello.gif" width="80px">
   <img src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/python_gif.gif" width="80px">
   <img src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/vscode.gif" width="80px"> 
