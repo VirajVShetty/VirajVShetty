@@ -22,15 +22,16 @@ AI/LLM Enthusiast — currently building a RAG-based system for Credit Underwrit
 
 ## My Skills
 
-<b>Languages & Data</b> <br>
-<p align="left">
+
+<p align="center">
+  <b>Languages & Data</b> <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb" />
   </a>
 </p>
 
-<b>ML / Data Science Stack</b> <br>
-<p align="left">
+<p align="center">
+  <b>ML / Data Science Stack</b> <br>
   <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -38,21 +39,23 @@ AI/LLM Enthusiast — currently building a RAG-based system for Credit Underwrit
   <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-<b>Data Platforms & BI</b> <br>
-<p align="left">
+
+<p align="center">
+  <b>Data Platforms & BI</b> <br>
   <img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/-Power%20BI-F1C912?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-<b>Front-End</b> <br>
-<p align="left">
+<p align="center">
+  <b>Front-End</b> <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css" />
   </a>
 </p>
 
-<b>DevOps & Tools</b> <br>
-<p align="left">
+
+<p align="center">
+  <b>DevOps & Tools</b> <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,vscode" />
   </a>
