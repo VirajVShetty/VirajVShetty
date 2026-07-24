@@ -1,4 +1,9 @@
-<h1>Welcome to my profile</h1> <img src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/hello.gif" width="80px">
+<h1>Welcome to my profile</h1>
+<p> 
+  <img src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/hello.gif" width="80px">
+  <img src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/python_gif.gif" width="80px">
+  <img src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/vscode.gif" width="80px"> 
+</p>
 
 
 ## I'm [Viraj Shetty](https://virajvshetty.github.io/)
