@@ -105,6 +105,7 @@ AI/LLM Enthusiast — currently building a RAG-based system for Credit Underwrit
 <a href="https://twitter.com/vshetty47"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/twitter.png"></a>
 <a href="https://dev.to/virajvshetty"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/devto.png"></a>
 <a href="https://www.hackerrank.com/viraj_shetty"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/hackerrank.jpg"></a>
+<a href="https://leetcode.com/u/virajvshetty/"><img height="60" src="https://github.com/VirajVShetty/VirajVShetty/blob/main/Source/leetcode.jpg"></a>
 </p>
 
 <br>
